@@ -1,0 +1,24 @@
+{
+  "name": "circleCiSample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ccf05017/circleCiSample.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ccf05017/circleCiSample/issues"
+  },
+  "homepage": "https://github.com/ccf05017/circleCiSample#readme",
+  "dependencies": {
+    "@wdio/selenium-standalone-service": "^5.16.5",
+    "codeceptjs": "^2.3.5"
+  }
+}
